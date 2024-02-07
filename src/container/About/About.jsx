@@ -17,10 +17,7 @@ const About = () => {
   return (
     <div className="app__about">
       <h2 className="head-text">
-        i am
-        <span> Nkurunziza karera olivier</span>
-        <br />
-        <span>A fullstack developer</span>
+        A fullstack<span> developer</span>
       </h2>
       <div className="app__profiles">
         {abouts.map((about, index) => (
