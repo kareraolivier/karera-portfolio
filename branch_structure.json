@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "1-karera",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "1-karera": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "1-karera",
+    "origin"
+  ]
+}
