@@ -40,7 +40,7 @@ const Project = () => {
     <div className="app__projects">
       <h2 className="head-text">
         My project
-        <span> Portifolio </span>
+        <span> Portfolio </span>
       </h2>
       <div className="app__project-filter">
         {["UI/UX", "WebDev App", "Mobile App", "React JS", "All"].map(
