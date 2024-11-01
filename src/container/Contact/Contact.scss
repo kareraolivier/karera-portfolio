@@ -26,6 +26,8 @@ h2 {
         background-color: #fef4f5;
         transition: all 0.3s ease-in-out;
         margin: 1rem 2rem;
+        display: flex;
+        justify-items: center;
 
         img {
             width: 40px;
